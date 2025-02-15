@@ -29,7 +29,7 @@ Using this ranking, we selected 1,500 high-value images due to computational con
 
 This dataset is hosted on Kaggle and can be accessed via the following link:
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/competitions/iitg-ai-overnight-hackathon-2024/data)
 
 ## Model and Training Settings
 
